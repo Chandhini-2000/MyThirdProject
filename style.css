@@ -214,3 +214,9 @@ span{
     color: white;
  
 }
+@media (min-width: 600px) {
+    body {
+      font-size: 18px;
+    }
+  }
+  
